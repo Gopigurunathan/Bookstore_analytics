@@ -1,10 +1,10 @@
-Neural Networks for the Publishing Industry: Enhancing Customer Experience and Sales
+# Neural Networks for the Publishing Industry: Enhancing Customer Experience and Sales
 
-Overview
+## Overview
 
 This project applies Artificial Neural Networks (ANNs) to the publishing industry to analyze customer behavior, recommend books, and forecast demand. The aim is to improve customer experience and optimize sales strategies through data-driven insights.
 
-Skills Acquired
+## Skills Acquired
 
 Data Cleaning and Preprocessing
 
@@ -22,15 +22,15 @@ Deploying Deep Learning Models using AWS and Streamlit
 
 Documentation and Reporting
 
-Domain
+## Domain
 
 Publishing Industry (E-commerce/Bookstore Analytics)
 
-Problem Statement
+## Problem Statement
 
 Leverage neural networks to analyze and predict customer behavior, recommend books, and forecast demand in the publishing industry, improving both customer experience and sales.
 
-Business Use Cases
+## Business Use Cases
 
 Customer Churn Prediction: Identify customers likely to stop purchasing and implement retention strategies.
 
@@ -38,7 +38,7 @@ Personalized Book Recommendations: Provide targeted recommendations to enhance c
 
 Demand Forecasting: Predict future book sales for inventory optimization.
 
-Approach
+## Approach
 
 1. Data Understanding & Preprocessing
 
@@ -94,7 +94,7 @@ Provide churn predictions.
 
 Visualize demand forecasts.
 
-Results
+## Results
 
 A functional system for predictions, recommendations, and demand forecasting.
 
@@ -102,7 +102,7 @@ Insights into customer behavior and sales patterns.
 
 Improved operational efficiency in inventory management.
 
-Technical Stack
+## Technical Stack
 
 Database: PostgreSQL, MySQL
 
@@ -114,9 +114,9 @@ Deployment: AWS EC2, Streamlit
 
 Version Control: Git, GitHub
 
-Dataset
+## Dataset
 
-Tables and Descriptions
+### Tables and Descriptions
 
 Author Table: Metadata about authors.
 
@@ -132,7 +132,7 @@ Order History Table: Status updates on orders.
 
 Shipping Table: Information on shipping methods.
 
-Project Deliverables
+### Project Deliverables
 
 Cleaned and preprocessed dataset
 
@@ -150,13 +150,7 @@ AWS Deployment with nohup
 
 Source code and documentation
 
-Project Guidelines
 
-Follow PEP 8 coding standards.
-
-Use Git for version control.
-
-Ensure reproducibility of results.
 
 
 
