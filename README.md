@@ -104,7 +104,7 @@ Improved operational efficiency in inventory management.
 
 ## Technical Stack
 
-Database: PostgreSQL, MySQL
+Database: MySQL
 
 Programming: Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras
 
