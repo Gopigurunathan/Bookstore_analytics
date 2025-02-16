@@ -8,10 +8,10 @@ This project applies Artificial Neural Networks (ANNs) to the publishing industr
 
 ### Features
 
-# Customer Churn Prediction: Identifies customers likely to stop purchasing.
+.### Customer Churn Prediction: Identifies customers likely to stop purchasing.
 
-# Personalized Book Recommendations: Suggests books based on customer preferences.
+.### Personalized Book Recommendations: Suggests books based on customer preferences.
 
-# Demand Forecasting: Predicts future book sales for inventory optimization.
+.### Demand Forecasting: Predicts future book sales for inventory optimization.
 
 
