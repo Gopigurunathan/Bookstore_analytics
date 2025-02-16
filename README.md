@@ -1,1 +1,1 @@
-## CHURN PREDICTION MODEL
+## Neural Networks for the Publishing Industry
