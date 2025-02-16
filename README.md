@@ -14,4 +14,8 @@ This project applies Artificial Neural Networks (ANNs) to the publishing industr
 
 ### . Demand Forecasting: Predicts future book sales for inventory optimization.
 
+## Tech Stack
+
+
+
 
