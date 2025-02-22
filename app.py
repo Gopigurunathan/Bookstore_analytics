@@ -7,7 +7,7 @@ import pickle
 
 # Load the trained ANN model
 #load the trained model
-model=load_model(r'C:\Users\nkn05\OneDrive\Desktop\DL_proj\.venv\model_training\churn_prediction_ann_model.h5')
+model=load_model(r'/home/ubuntu/Bookstore_analytics/churn_prediction_ann_model.h5')
 
 #load the encoder and scaler
 
