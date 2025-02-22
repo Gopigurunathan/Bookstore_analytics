@@ -12,10 +12,10 @@ model=load_model(r'/home/ubuntu/Bookstore_analytics/churn_prediction_ann_model.h
 #load the encoder and scaler
 
 
-with open(r'.venv/model_training/one_hot_shipping.pkl','rb') as file:
+with open(r'/home/ubuntu/Bookstore_analytics/one_hot_shipping.pkl','rb') as file:
     label_encoder_shipping=pickle.load(file)
     
-with open(r'C:\Users\nkn05\OneDrive\Desktop\DL_proj\.venv\model_training\scaler.pkl', 'rb') as file:
+with open(r'/home/ubuntu/Bookstore_analytics\scaler.pkl', 'rb') as file:
     scaler = pickle.load(file)
 
 
